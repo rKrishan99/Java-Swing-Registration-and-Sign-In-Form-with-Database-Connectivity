@@ -20,12 +20,14 @@ This Java Swing application allows users to register and sign in securely. The a
 - MySQL for database management
 - JDBC for database connectivity
 
+![Screenshot 2024-02-16 094601](https://github.com/rKrishan99/Java-Swing-Registration-and-Sign-In-Form-with-Database-Connectivity/assets/109914399/a53eba6b-2461-42c8-accb-5ca1c85555da)  
+
 ## Contributors:
-- [Rajitha Wijesinghe](mailto:youremail@example.com)
+- [Rajitha Wijesinghe](mailto:rkrishan894@gmail.com)
 
 ## License:
 This project is licensed under the MIT License.
 
 ## Support:
-For any questions or issues, please contact [rkrishan894@gmail.com](mailto:youremail@example.com).
+For any questions or issues, please contact [rkrishan894@gmail.com](mailto:rkrishan894@gmail.com).
 
